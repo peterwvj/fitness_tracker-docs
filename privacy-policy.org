@@ -1,0 +1,66 @@
+Fitness Tracker Application Privacy Policy
+
+Last updated: April 18, 2020.
+
+CEPK ("we" or "us" or "our") respects the privacy of our users ("user"
+or "you"). This Privacy Policy explains how we collect, use, disclose,
+and safeguard your information when you visit our application (the
+"Application"). Please read this Privacy Policy carefully. IF YOU DO
+NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS
+THE APPLICATION.
+
+We reserve the right to make changes to this Privacy Policy at any
+time and for any reason. We will alert you about any changes by
+updating the "Last updated" date of this Privacy Policy. You are
+encouraged to periodically review this Privacy Policy to stay informed
+of updates. You will be deemed to have been made aware of, will be
+subject to, and will be deemed to have accepted the changes in any
+revised Privacy Policy by your continued use of the Application after
+the date such revised Privacy Policy is posted.
+
+This Privacy Policy does not apply to the third-party online/mobile
+store from which you install the Application or make payments. We are
+not responsible for any of the data collected by any third parties
+that the Application relies on.
+
+COLLECTION OF YOUR INFORMATION
+
+The Application needs camera access to:
+
+1. Scan barcodes, which are used to retrieve information about food
+   products from the [[https://world.openfoodfacts.org/][Open Food Facts]] (OFF) third-party database and
+   assisting users with entering barcodes for newly created OFF food
+   products.
+
+2. Take food product photos, which may optionally be attached to food
+   products submitted to OFF.
+
+The Application requires Internet access to:
+
+1. Retrieve information about OFF food products, creating new OFF food
+   products, and submitting changes to existing OFF food products.
+
+2. Log in. The Application uses [[http://firebase.google.com/][Firebase]]/Social login to authenticate
+   users and manage them. The Application will use information
+   available via the social network accounts (name, profile image
+   etc.) to show the user who is currently logged in to the
+   Application.
+
+The Application stores the following information on the device that it
+runs on:
+
+1. Meal plan related information provided by the user.
+
+2. User settings/preferences.
+
+3. OFF credentials (if provided by the user), which are used to
+   authenticate against OFF when creating/editing OFF food
+   products. OFF passwords are stored/protected with [[https://pub.dev/packages/flutter_secure_storage][Flutter Secure
+   Storage]].
+
+CONTACT US
+
+If you have questions or comments about this Privacy Policy, please
+contact us at:
+
+peter.w.v.jorgensen@gmail.com
