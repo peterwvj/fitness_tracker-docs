@@ -1,6 +1,6 @@
 Fitness Tracker Application Privacy Policy
 
-Last updated: April 18, 2020.
+Last updated: August 16, 2026.
 
 CEPK ("we" or "us" or "our") respects the privacy of our users ("user"
 or "you"). This Privacy Policy explains how we collect, use, disclose,
@@ -64,6 +64,16 @@ runs on:
 3. OFF credentials (if provided by the user), which are used to
    authenticate against OFF when creating/editing OFF products. OFF
    passwords are stored/protected with [[https://pub.dev/packages/flutter_secure_storage][Flutter Secure Storage]].
+
+Data deletion:
+
+1. *Local Data:* All data stored locally on your device can be removed
+   at any time by uninstalling the application.
+
+2. *OFF Data:* Products created and uploaded to OFF using your
+   personal OFF credentials are stored on OFF servers. You can request
+   the deletion of this data by contacting the Open Food Facts team
+   directly.
 
 CONTACT US
 
