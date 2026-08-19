@@ -1,6 +1,6 @@
 Fitness Tracker Application Privacy Policy
 
-Last updated: August 16, 2026.
+Last updated: August 19, 2026.
 
 CEPK ("we" or "us" or "our") respects the privacy of our users ("user"
 or "you"). This Privacy Policy explains how we collect, use, disclose,
@@ -67,10 +67,17 @@ runs on:
 
 Data deletion:
 
-1. *Local Data:* All data stored locally on your device can be removed
+1. Local Data: All data stored locally on your device can be removed
    at any time by uninstalling the application.
 
-2. *OFF Data:* Products created and uploaded to OFF using your
+2. Firebase / User Account Data: To request deletion of your Firebase
+   user account and associated authentication data (Firebase UID,
+   social login identity), please contact us at
+   peter.w.v.jorgensen@gmail.com. Upon request, your user account and
+   authentication data will be permanently deleted from our Firebase
+   system.
+
+3. OFF Data: Products created and uploaded to OFF using your
    personal OFF credentials are stored on OFF servers. You can request
    the deletion of this data by contacting the Open Food Facts team
    directly.
